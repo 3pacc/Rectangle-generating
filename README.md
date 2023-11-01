@@ -28,18 +28,4 @@ Suivez les instructions à l'écran pour spécifier les dimensions du rectangle 
 Exemple d'utilisation
 Voici un exemple de sortie du générateur de rectangles d'étoiles :
 
-markdown
-Copy code
-Entrez la largeur du rectangle : 10
-Entrez la hauteur du rectangle : 5
-Entrez le nombre d'étoiles : 15
 
-Rectangle d'étoiles généré :
-
-**********
-**      **
-**      **
-**      **
-**********
-Contributions
-Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, vous pouvez créer une nouvelle branche, apporter des modifications, puis soumettre une demande de tirage. Nous serons ravis d'examiner vos idées et vos améliorations.
