@@ -25,6 +25,3 @@ Copy code
 python generate_stars_rectangle.py
 Suivez les instructions à l'écran pour spécifier les dimensions du rectangle et le nombre d'étoiles.
 
-Exemple d'utilisation
-Voici un exemple de sortie du générateur de rectangles d'étoiles :
-
