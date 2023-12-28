@@ -29,3 +29,4 @@ Exemple d'utilisation
 Voici un exemple de sortie du générateur de rectangles d'étoiles :
 
 
+to replace
